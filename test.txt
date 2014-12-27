@@ -1,8 +1,4 @@
 ok
-<<<<<<< HEAD
 ok2
 bug
 bug2
-=======
-ok2
->>>>>>> parent of d60ee04... bug
